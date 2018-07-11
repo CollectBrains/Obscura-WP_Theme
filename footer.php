@@ -98,6 +98,11 @@
 <!-- End Footer -->
 </div><!-- #page -->
 
+
+<script type="text/javascript">
+	$.backstretch("style/images/bg/1.jpg");
+</script>
+
 <?php wp_footer(); ?>
 
 </body>

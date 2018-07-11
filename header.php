@@ -18,14 +18,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
-	<script type="text/javascript">
-		$.backstretch("style/images/bg/1.jpg");
-	</script>
-
 	<?php wp_head(); ?>
 </head>
 
 <body <?php body_class(); ?>>
+<div id="page" class="site">
 	<div class="scanlines"></div>
 
 	<!-- Begin Header -->
